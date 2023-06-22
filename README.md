@@ -99,7 +99,9 @@ UML stands for Unified Modeling Language. It is a standardized visual language u
 In our case, we need to analyze a UML diagram in order to implement it in Java, here are the diagrams that explain the symbols and notations.
 
 ![enter image description here](https://cdn-images.visual-paradigm.com/guide/uml/uml-class-diagram-tutorial/07-relationships-between-classes.png)
+
 ***Figure 1.1*** (*Relationships-between-classes*)
 
 ![enter image description here](https://study.com/cimages/multimages/16/access_modifiers_in_class_diagrams.png)
+
 ***Figure 1.2*** (*Access modifiers*)
